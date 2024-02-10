@@ -1,2 +1,2 @@
 # LifeOfShiv
-life of shiv simulator
+Game - life of shiv simulator
